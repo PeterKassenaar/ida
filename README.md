@@ -16,6 +16,8 @@ Slides and sample code on the training React Fundamentals, IDA, Fall 2024
 - "Big Projects are dropping TypeScript" - https://www.youtube.com/watch?v=5ChkQKUzDCs
   - ...en de reactie van Matt Pocock, TypeScript Guru daarop: https://www.totaltypescript.com/are-big-projects-ditching-typescript
   - ander artikel: https://javascript.plainenglish.io/why-are-large-open-source-projects-ditching-typescript-bfe788992b3a
+- Nullish coalescing operator (??) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing
+- <code>fetch()</code> vs. <code>axios</code> - https://blog.logrocket.com/axios-vs-fetch-best-http-requests/
 
 Questions? Drop me an email at info@kassenaar.com
 
